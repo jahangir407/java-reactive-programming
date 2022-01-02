@@ -2,7 +2,6 @@ package jhub.rp.util;
 
 import com.github.javafaker.Faker;
 
-import java.util.TreeMap;
 import java.util.function.Consumer;
 
 public class Util {
